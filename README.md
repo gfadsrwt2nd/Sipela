@@ -27,7 +27,7 @@
   5. localhost/sipela/
 </p>
 
-![Screenshot]
+# Screenshot
 ![1](https://github.com/gfadsrwt2nd/Sipela/assets/55633963/b95d0c15-af88-44be-860e-0d2c5f71f1c2)
 ![2](https://github.com/gfadsrwt2nd/Sipela/assets/55633963/820e0df8-d725-4bf0-97df-44d99a1f5241)
 ![3](https://github.com/gfadsrwt2nd/Sipela/assets/55633963/6f092708-094e-42a6-94ea-cbb74652129c)
