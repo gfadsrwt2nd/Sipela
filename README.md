@@ -1,10 +1,9 @@
 
 # Sistem Pelayanan Pengajuan Surat Online
-
+[![PHP 5.6|7.x|8.x](https://www.php.net/images/logos/php_file.ico)](https://www.php.net/)
 <p>
   <img src="https://img.shields.io/badge/Version-1.0-brightgreen.svg?style=style=flat-square" alt="version"></a>
   <a href="https://twitter.com/antuwarnet"><img src="https://img.shields.io/twitter/url/https/github.com/Tuhinshubhra/CMSeeK.svg?style=social" alt="Twitter" /></a>
-[![PHP 5.6|7.x|8.x](https://www.php.net/images/logos/php_file.ico)](https://www.php.net/)
 </p>
 
 <p>Studi kasus Desa Taraman Jaya, Kab. OKU Timur, Sumsel<br>Dibuat menggunakan Html, CSS & PHP dan MySQL sebagai databasenya</p>
