@@ -17,7 +17,7 @@
   6. Halaman Tentang Aplikasi <br>
 </p>
 
-## Installation
+## Penggunaan
 
 <p>
   1. Ekstrak file sipela.zip<br>
