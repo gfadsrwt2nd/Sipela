@@ -1,8 +1,7 @@
 [![PHP 5.6|7.x|8.x](https://www.php.net/images/logos/php_file.ico)](https://www.php.net/)
 <p align='center'>
-  <img src="https://i.imgur.com/5VYs1m2.png" alt="Logo"> <br>
   <img src="https://img.shields.io/badge/Version-1.0-brightgreen.svg?style=style=flat-square" alt="version"></a>
-  <a href="https://twitter.com/r3dhax0r"><img src="https://img.shields.io/twitter/url/https/github.com/Tuhinshubhra/CMSeeK.svg?style=social" alt="Twitter" /></a>
+  <a href="https://twitter.com/antuwarnet"><img src="https://img.shields.io/twitter/url/https/github.com/Tuhinshubhra/CMSeeK.svg?style=social" alt="Twitter" /></a>
 </p>
 
 # Sistem Pelayanan Pengajuan Surat Online
