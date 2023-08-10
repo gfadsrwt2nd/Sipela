@@ -6,7 +6,7 @@
 
 <p>Aplikasi pelayanan ini dibuat untuk memudahkan masyarakat desa taraman jaya dalam berbagai kegiatan melalui online</p>
 
-## Version 1.0.1
+## Version 1.0
 ## Features
 <p>
   1. Halaman Beranda <br>
