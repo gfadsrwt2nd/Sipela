@@ -1,4 +1,4 @@
-[![PHP 5.6|7.x|8.x]([https://img.shields.io/badge/python-2.6|2.7|3.x-yellow.svg](https://www.vectorlogo.zone/logos/php/php-horizontal.svg))](https://www.php.net/)
+[![PHP 5.6|7.x|8.x]((https://www.vectorlogo.zone/logos/php/php-horizontal.svg))](https://www.php.net/)
 
 # Sistem Pelayanan Pengajuan Surat Online
 
