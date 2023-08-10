@@ -1,4 +1,4 @@
-[![PHP 2.6|2.7|3.x](https://www.php.net/images/logos/php_file.ico)](https://www.php.net/)
+[![PHP 5.6|7.x|8.x](https://www.php.net/images/logos/php_file.ico)](https://www.php.net/)
 
 # Sistem Pelayanan Pengajuan Surat Online
 
